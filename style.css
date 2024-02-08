@@ -585,7 +585,7 @@ nav {
 
 footer {
   position: relative;
-  background-color: rgba(0, 0, 0, 0.95);
+  background-color: rgba(69, 69, 69, 0.95);
   display: flex;
   padding: 6% 0;
 }
