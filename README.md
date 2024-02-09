@@ -1,9 +1,33 @@
 # Personal-website
 
+Welcome to my personal web portfolio! This portfolio showcases my projects, skills, and experiences. 
+It's built using HTML, CSS, and JavaScript, featuring a "Contact Me" function and light/dark mode toggle.
+
+## Demo
+[Portfolio example](https://youssefabdellaoui.com/)
+
+## Features
+
+- Project Showcase: Display your projects with descriptions and links.
+- Skills: Highlight your skills and expertise.
+- About Me: A section where you can introduce yourself.
+- Contact Me: Visitors can easily get in touch with you.
+- Light/Dark Mode: Toggle between light and dark mode for better user experience.
 
 
+## Technologies Used
+
+- HTML
+- CSS
+- JavaScript
 
 
+## Usage
+
+- Modify the index.html file to update the content according to your portfolio.
+- Customize the styling in the styles.css file.
+- Implement additional features or sections as needed.
+- Ensure JavaScript functionalities in script.js are tailored to your requirements.
 
 
 
