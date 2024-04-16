@@ -35,7 +35,7 @@ function contact(event) {
       "service_jazy98f",
       "template_khp9s0q",
       event.target,
-      "wHKt5TyzuCKDXDjeF"
+      "#"
     )
     .then(() => {
       loading.classList.remove("modal__overlay--visible");
