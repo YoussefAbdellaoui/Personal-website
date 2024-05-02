@@ -4,7 +4,7 @@ Welcome to my personal web portfolio! This portfolio showcases my projects, skil
 It's built using HTML, CSS, and JavaScript, featuring a "Contact Me" function and light/dark mode toggle.
 
 ## Demo
-[Portfolio example](https://youssefabdellaoui.com/)
+[Live demo](https://1stpersonalportoflio.netlify.app/)
 
 ## Features
 
